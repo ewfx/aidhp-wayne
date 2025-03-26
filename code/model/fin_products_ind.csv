@@ -1,0 +1,33 @@
+Product_ID,Product_Name,Category,Target_Audience
+FIN011,Personal Loan,Loan,Individual
+FIN012,Credit Card,Credit,Individual
+FIN013,Home Loan,Loan,Individual
+FIN014,Auto Loan,Loan,Individual
+FIN015,Education Loan,Loan,Individual
+FIN016,Savings Account,Banking Service,Individual
+FIN017,Digital Banking,Banking Service,Individual
+FIN018,Fixed Deposit,Investment,Individual
+FIN019,Gold Loan,Loan,Individual
+FIN020,Mutual Funds,Investment,Individual
+FIN021,Stock Investment Account,Investment,Individual
+FIN022,Retirement Plan,Investment,Individual
+FIN023,Real Estate Advisory,Investment,Individual
+FIN024,Insurance Products,Insurance,Individual
+FIN025,Tax-Saving Plans,Investment,Individual
+FIN026,Premium Banking Membership,Banking Service,Individual
+FIN027,Credit Protection Plan,Insurance,Individual
+FIN029,Cybersecurity Insurance,Insurance,Individual
+FIN030,AI Financial Advisory,Banking Service,Individual
+FIN031,Blockchain Banking,Banking Service,Individual
+FIN032,Instant Loan Approval,Loan,Individual
+FIN034,Wealth Management,Investment,Individual
+FIN035,Financial Literacy Course,Subscription,Individual
+FIN036,Debt Consolidation,Loan,Individual
+FIN037,Health Insurance,Insurance,Individual
+FIN038,Travel Insurance,Insurance,Individual
+FIN039,Home Insurance,Insurance,Individual
+FIN040,Car Insurance,Insurance,Individual
+FIN041,Life Insurance,Insurance,Individual
+FIN042,Disability Insurance,Insurance,Individual
+FIN043,Pet Insurance,Insurance,Individual
+FIN044,Event Insurance,Insurance,Individual

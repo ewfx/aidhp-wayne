@@ -1,0 +1,110 @@
+Product_ID,Category,Price
+PROD001,Software,1200
+PROD002,Cloud Services,299
+PROD003,Laptop,2200
+PROD004,Medical Equipment,5400
+PROD005,Healthcare Software,399
+PROD006,Office Furniture,850
+PROD007,E-commerce Software,1499
+PROD008,SEO Services,199
+PROD009,Warehouse Equipment,3200
+PROD010,Manufacturing Tools,6700
+PROD011,Quality Control Software,499
+PROD012,3D Printing Materials,1900
+PROD013,Online Learning Platform,350
+PROD014,E-books,99
+PROD015,VR Headset,750
+PROD016,Hotel Management Software,2500
+PROD017,Travel CRM,199
+PROD018,Smart Security System,1800
+PROD019,Stock Analysis Tool,1300
+PROD020,Financial News,59
+PROD021,Trading Simulator,990
+PROD022,Web Hosting,300
+PROD023,Coding Bootcamp,150
+PROD024,Server Upgrade,4800
+PROD025,Organic Food Supplies,600
+PROD026,Nutrition Plan,79
+PROD027,Kitchen Equipment,1200
+PROD028,Investment Research,999
+PROD029,Stock Market Data,129
+PROD030,Financial Planning Software,2499
+PROD031,Sustainable Fabric,1800
+PROD032,Fashion Design Software,219
+PROD033,Sewing Machines,5700
+PROD034,Digital Sports Training Kit,499
+PROD035,Performance Analytics,119
+PROD036,Gym Equipment,2900
+PROD037,Travel Booking Software,1399
+PROD038,Frequent Flyer Membership,99
+PROD039,Camera Equipment,1750
+PROD040,Real Estate CRM,2200
+PROD041,Market Analysis Reports,199
+PROD042,Property Management Software,3200
+PROD043,Bookstore Inventory,900
+PROD044,Library Access,79
+PROD045,Writing Software,250
+PROD046,Music Editing Software,450
+PROD047,Streaming Platform Premium,129
+PROD048,Studio Equipment,3700
+PROD049,Art Supplies,799
+PROD050,Online Art Classes,99
+PROD051,Graphic Tablet,950
+PROD052,Cooking Appliances,1200
+PROD052,AI Development Software,3200
+PROD053,Cloud AI Services,299
+PROD053,Recipe Box,79
+PROD054,High-Performance GPU,4500
+PROD055,Concert Sound Equipment,5800
+PROD056,Music Streaming Platform,159
+PROD057,Digital Mixing Console,2700
+PROD058,Public Transport Fleet Management,7200
+PROD059,Logistics Optimization Software,499
+PROD060,Smart Traffic Lights System,6300
+PROD061,Gourmet Cooking Equipment,3900
+PROD062,Premium Chef Training Program,199
+PROD063,Restaurant POS System,2300
+PROD064,Government Policy Research,2800
+PROD065,Public Affairs Database,129
+PROD066,Legislation Analytics Software,3400
+PROD067,Photography Camera Lenses,1800
+PROD068,Adobe Creative Cloud,59
+PROD069,Photo Editing Software,600
+PROD070,Recyclable Packaging Materials,2500
+PROD071,Sustainability News Platform,99
+PROD072,Green Manufacturing Equipment,7800
+PROD073,Luxury Car Parts,6700
+PROD074,Automobile Industry Insights,299
+PROD075,Electric Car Charging Stations,9600
+PROD076,NGO Fundraising Tools,3100
+PROD077,Charity CRM Software,199
+PROD078,Volunteering Management System,2800
+PROD079,Deep Learning Computing Rig,8300
+PROD080,AI Ethics Training,149
+PROD081,AI Model Training Dataset,4900
+PROD082,Ballet Performance Wear,2100
+PROD083,Dance Streaming Platform,99
+PROD084,Dance Studio Mirrors,1700
+PROD085,Esports Gaming Monitors,3200
+PROD086,Esports Coaching Program,199
+PROD087,VR Headset for Gaming,2900
+PROD088,Holistic Wellness Training,1400
+PROD089,Meditation App Premium,79
+PROD090,Yoga Studio Equipment,2400
+PROD091,Country Music Studio Time,5300
+PROD092,Music Distribution Service,119
+PROD093,Guitar Recording Gear,2200
+PROD094,Theme Park Ride Safety Gear,7200
+PROD095,Entertainment Analytics Tool,159
+PROD096,Custom Merchandise for Theme Park,4900
+PROD097,App Development Tools,2800
+PROD098,Cloud Backend Services,299
+PROD099,Mobile UI Design Software,1900
+PROD100,Home Decor Showroom Inventory,4600
+PROD101,Interior Design Webinars,129
+PROD102,Smart Home Automation Kit,5200
+PROD103,Filmmaking Camera Rig,9800
+PROD104,Film Editing Software,259
+PROD105,Virtual Production Setup,7300
+PROD106,Book Club Reading List,400
+PROD107,Author Interviews,79

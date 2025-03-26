@@ -1,0 +1,28 @@
+Customer_ID,Industry,Financial Needs,Preferences,Revenues,Number of employees
+CUST001,Technology,Investment,High risk,$5000000,150
+CUST002,Healthcare,Loan,Low interest,$8500000,200
+CUST003,Retail,Credit Line,Flexible terms,$3200000,50
+CUST004,Manufacturing,Equipment Financing,Long-term,$12000000,500
+CUST005,Education,Grant,Government-backed,$2000000,80
+CUST006,Hospitality,Working Capital,Short-term,$6500000,120
+CUST007,Finance,Investment,Moderate risk,$15000000,300
+CUST008,Technology,Loan,Fixed rate,$9800000,180
+CUST009,Construction,Equipment Financing,Low interest,$14500000,250
+CUST010,Transportation,Working Capital,Flexible terms,$7200000,130
+CUST011,Healthcare,Grant,Private funding,$5800000,90
+CUST012,Energy,Investment,High return,$20000000,400
+CUST013,Agriculture,Loan,Government subsidy,$4500000,60
+CUST014,Retail,Credit Line,Short-term,$3800000,45
+CUST015,Technology,Venture Capital,High growth,$10500000,210
+CUST016,Hospitality,Equipment Financing,Leasing option,$6000000,100
+CUST017,Construction,Loan,Collateral-backed,$13200000,275
+CUST018,Finance,Investment,Long-term,$18500000,350
+CUST019,Healthcare,Working Capital,No collateral,$7800000,150
+CUST020,Education,Grant,Private sponsorship,$2700000,70
+CUST021,Retail,Credit Line,Revolving,$4100000,55
+CUST022,Manufacturing,Loan,Low interest,$11300000,450
+CUST023,Energy,Investment,Sustainable projects,$21000000,420
+CUST024,Agriculture,Equipment Financing,Government-backed,$5200000,85
+CUST025,Transportation,Working Capital,Short-term,$8700000,160
+CUST026,Technology,Investment,High risk,$5300000,160
+CUST027,Hospitality,Loan,Low interest,$8900000,220

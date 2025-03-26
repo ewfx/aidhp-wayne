@@ -1,0 +1,143 @@
+customerid,preferences,interests,type,week_start,revenue/income,list_of_posts
+CUST001,High risk,,organization,2025-02-24,1200.0,
+CUST001,High risk,,organization,2025-03-03,299.0,
+CUST001,High risk,,organization,2025-03-10,2200.0,
+CUST001,,,,2025-03-17,,"['How AI is shaping the future of tech startups.', 'The rise of quantum computing and its impact on software development.', 'Cybersecurity trends to watch out for in 2025!', 'Join our webinar on AI ethics in tech—register now!']"
+CUST002,Low interest,,organization,2025-03-10,5799.0,
+CUST002,Low interest,,organization,2025-03-17,850.0,['The importance of mental health in healthcare professions.']
+CUST002,,,,2025-03-24,,"['5 quick exercises for healthcare professionals to stay active.', 'How telemedicine is reshaping patient care.', 'Debunking common myths about nutrition and healthcare.']"
+CUST003,Flexible terms,,organization,2025-03-17,1698.0,['Retail trends: The shift to e-commerce and personalization.']
+CUST003,Flexible terms,,organization,2025-03-24,3200.0,"['Retail automation: How AI-powered chatbots improve customer experience.', 'Behind the scenes: Setting up an online store from scratch.', 'Why subscription-based models are revolutionizing retail.']"
+CUST004,,,,2025-03-17,,['Innovations in sustainable manufacturing processes.']
+CUST004,Long-term,,organization,2025-03-24,7199.0,['3D printing in manufacturing—game changer or hype?']
+CUST004,Long-term,,organization,2025-03-31,1900.0,"['Sustainable packaging: The next frontier in eco-friendly manufacturing.', 'How automation is reducing waste in manufacturing plants.']"
+CUST005,,,,2025-03-10,,['Excited to share insights from our latest education reform project!']
+CUST005,Government-backed,,organization,2025-03-31,350.0,"['The impact of e-learning on student performance—real data inside!', 'Should coding be a mandatory subject in schools?', 'How AR and VR are transforming classroom experiences.']"
+CUST005,Government-backed,,organization,2025-04-07,849.0,
+CUST006,,,,2025-03-10,,['How small hospitality businesses can thrive post-pandemic.']
+CUST006,,,,2025-03-31,,"['The role of AI in enhancing customer experience in hospitality.', 'Sustainable tourism: How to travel without harming the environment.']"
+CUST006,Short-term,,organization,2025-04-07,2500.0,['A day in the life of a hotel manager—behind the scenes!']
+CUST006,Short-term,,organization,2025-04-14,1999.0,
+CUST007,,,,2025-03-10,,['Investment strategies for 2025 – where to put your money?']
+CUST007,,,,2025-04-07,,"['How to identify promising startups before they go public.', 'Breaking down the latest market trends in global finance.', 'Are cryptocurrencies a safe investment in 2025?']"
+CUST007,Moderate risk,,organization,2025-04-14,1300.0,
+CUST007,Moderate risk,,organization,2025-04-21,1049.0,
+CUST008,,,,2025-03-10,,['Tech startups: When to seek funding and when to bootstrap.']
+CUST008,,,,2025-05-05,,"['The future of AI startups: Challenges and opportunities.', 'Why mentorship is crucial for tech entrepreneurs.', 'Behind the scenes of building a SaaS company!']"
+CUST008,Fixed rate,,organization,2025-06-30,7999.0,
+CUST009,,,,2025-03-10,,['Check out our latest construction project in downtown LA!']
+CUST009,,,,2025-05-05,,['The impact of live music on mental health.']
+CUST009,,,,2025-05-12,,"['The best studio setup for indie artists in 2025.', 'Throwback to our first major concert production!']"
+CUST009,Low interest,,organization,2025-07-07,8659.0,
+CUST010,,,,2025-03-10,,['Transportation and logistics: The rise of electric trucks.']
+CUST010,,,,2025-05-12,,"['The rise of electric public transport—what’s next?', 'Self-driving trucks: Are they the future of logistics?', 'Why high-speed rail is a game changer for global transport.']"
+CUST010,Flexible terms,,organization,2025-07-07,7200.0,
+CUST010,Flexible terms,,organization,2025-07-14,6799.0,
+CUST011,Private funding,,organization,,,
+CUST012,High return,,organization,,,
+CUST013,Government subsidy,,organization,,,
+CUST014,Short-term,,organization,,,
+CUST015,High growth,,organization,,,
+CUST016,Leasing option,,organization,,,
+CUST017,Collateral-backed,,organization,,,
+CUST018,Long-term,,organization,,,
+CUST019,No collateral,,organization,,,
+CUST020,Private sponsorship,,organization,,,
+CUST021,Revolving,,organization,,,
+CUST022,Low interest,,organization,,,
+CUST023,Sustainable projects,,organization,,,
+CUST024,Government-backed,,organization,,,
+CUST025,Short-term,,organization,,,
+CUST026,High risk,,organization,,,
+CUST027,Low interest,,organization,,,
+IND001,,,,2025-03-10,,['New JavaScript frameworks to watch in 2025!']
+IND001,,,,2025-04-07,,"['Which programming languages will dominate in the next decade?', 'Frontend vs. Backend Development—Which career path is right for you?', 'How no-code and low-code platforms are changing the industry.']"
+IND001,Gadgets,Technology,individual,2025-04-21,300.0,
+IND001,Gadgets,Technology,individual,2025-04-28,4950.0,
+IND002,,,,2025-03-03,,['5 quick home workouts to stay fit and healthy!']
+IND002,,,,2025-04-14,,"['Easy meal prep ideas for busy professionals.', 'The science behind intermittent fasting—does it really work?', '5 tips for maintaining a healthy gut.']"
+IND002,Healthy Lifestyle,Fitness,individual,2025-04-28,679.0,
+IND002,Healthy Lifestyle,Fitness,individual,2025-05-05,1200.0,
+IND003,,,,2025-03-03,,['Stock market trends: What’s driving the S&P 500 this quarter?']
+IND003,,,,2025-04-14,,"['How to create a diversified investment portfolio.', 'How inflation is affecting the real estate market.', 'Top 3 investment opportunities for young professionals.']"
+IND003,Investments,Finance,individual,2025-05-05,1128.0,
+IND003,Investments,Finance,individual,2025-05-12,2499.0,
+IND004,,,,2025-03-03,,['Spring fashion trends: What’s in and what’s out!']
+IND004,,,,2025-04-14,,['How to build a timeless wardrobe—fashion tips!']
+IND004,,,,2025-04-21,,"['Why sustainable fashion is the future.', 'Fashion influencers vs. traditional designers—who’s leading the industry?']"
+IND004,Luxury Brands,Fashion,individual,2025-05-12,2019.0,
+IND004,Luxury Brands,Fashion,individual,2025-05-19,5700.0,
+IND005,,,,2025-03-03,,['Who’s excited for the NBA playoffs? Predictions?']
+IND005,,,,2025-04-21,,"['The rise of digital marketing in the sports industry.', 'Top 5 exercises to improve your game in any sport.', 'Should sports leagues embrace NFTs? The debate continues.']"
+IND005,Outdoor Activities,Sports,individual,2025-05-19,618.0,
+IND005,Outdoor Activities,Sports,individual,2025-05-26,2900.0,
+IND006,,,,2025-03-03,,['Top 10 must-visit travel destinations for 2025!']
+IND006,,,,2025-04-21,,"['Best travel destinations for digital nomads.', 'How to find cheap flights and maximize your travel budget.']"
+IND006,,,,2025-04-28,,['The dos and don’ts of sustainable travel.']
+IND006,Adventure Trips,Travel,individual,2025-05-26,1498.0,
+IND006,Adventure Trips,Travel,individual,2025-06-02,1750.0,
+IND007,,,,2025-03-03,,['Real estate investments: Is 2025 a buyer’s or seller’s market?']
+IND007,,,,2025-04-28,,"['5 things you need to know before investing in real estate.', 'Renting vs. buying—what makes the most financial sense in 2025?', 'Why location still matters in real estate investment.']"
+IND007,Property Investment,Real Estate,individual,2025-06-02,2399.0,
+IND007,Property Investment,Real Estate,individual,2025-06-09,3200.0,
+IND008,,,,2025-03-03,,['Best self-help books to read this year!']
+IND008,,,,2025-04-28,,"['Top 10 must-read books for self-improvement.', 'How audiobooks are changing the way we consume knowledge.', 'Print books vs. eBooks—Which one do you prefer?']"
+IND008,Self-Help Books,Reading,individual,2025-06-09,1229.0,
+IND009,,,,2025-02-24,,['Concert alert! Who’s coming to the Austin Music Festival?']
+IND009,,,,2025-05-05,,"['How streaming platforms are changing the music industry.', 'Behind the scenes of live concert production!', 'Vinyl is making a comeback—what’s fueling the trend?']"
+IND009,Live Concerts,Music,individual,2025-06-16,4279.0,
+IND010,,,,2025-02-24,,"['Artists, what’s your favorite medium to work with?']"
+IND010,,,,2025-05-12,,"['10 beginner-friendly painting techniques.', 'How digital art is revolutionizing the creative industry.']"
+IND010,,,,2025-05-19,,['Watercolor vs. oil painting—Which one do you prefer?']
+IND010,Painting,Art,individual,2025-06-23,1848.0,
+IND011,,,,2025-02-24,,['Check out my new gourmet dish – recipe inside!']
+IND011,,,,2025-05-19,,"['How to create a Michelin-star-level dish at home.', 'Behind the scenes of a professional kitchen!', 'The impact of farm-to-table dining on local economies.']"
+IND011,Gourmet Food,Cooking,individual,2025-06-30,1279.0,
+IND011,Gourmet Food,Cooking,individual,2025-07-14,3900.0,
+IND011,Gourmet Food,Cooking,individual,2025-07-21,2499.0,
+IND012,,,,2025-02-24,,['Public policy changes that could impact small businesses.']
+IND012,,,,2025-05-19,,"['Why civic engagement matters in 2025.', 'How new policies are shaping small business regulations.', 'Breaking down the biggest public policy changes this year.']"
+IND012,Public Policy,Politics,individual,2025-07-21,2929.0,
+IND012,Public Policy,Politics,individual,2025-07-28,3400.0,
+IND013,,,,2025-02-24,,['Photography tip: How to capture perfect lighting.']
+IND013,,,,2025-05-26,,"['Photography hacks for stunning portraits!', 'The best DSLR cameras in 2025—Which one should you get?', 'The evolution of photography styles over the last decade.']"
+IND013,Portraits,Photography,individual,2025-07-28,1859.0,
+IND013,Portraits,Photography,individual,2025-08-04,600.0,
+IND014,,,,2025-02-24,,['Let’s talk sustainability – what steps are you taking?']
+IND014,,,,2025-05-26,,"['How businesses can go zero-waste in their operations.', 'Simple swaps for a more sustainable lifestyle.', 'The impact of fast fashion on the environment.']"
+IND014,Zero-Waste Lifestyle,Sustainability,individual,2025-08-04,10399.0,
+IND015,,,,2025-02-24,,['The top 5 luxury car releases of the year!']
+IND015,,,,2025-05-26,,['Top 5 luxury cars of the year—Which is your favorite?']
+IND015,,,,2025-06-02,,"['How electric sports cars are redefining performance.', 'Would you buy a self-driving supercar? Let’s discuss!']"
+IND015,Luxury Cars,Automobiles,individual,2025-08-11,16599.0,
+IND016,,,,2025-06-02,,"['How nonprofits can leverage social media for impact.', 'Volunteering stories: Making a real difference in communities.', 'Why corporate social responsibility is more important than ever.']"
+IND016,Social Work,Volunteering,individual,2025-08-18,6099.0,
+IND017,,,,2025-06-02,,"['Building your first AI model—where to start.', 'How AI is transforming the job market.']"
+IND017,,,,2025-06-09,,['The ethics of AI—How can we ensure responsible innovation?']
+IND017,AI & Robotics,Technology,individual,2025-08-18,8300.0,
+IND017,AI & Robotics,Technology,individual,2025-08-25,5049.0,
+IND018,,,,2025-06-09,,"['The role of ballet in modern dance education.', 'Best stretches for dancers—Stay flexible!', 'Why dance is great for mental health and mindfulness.']"
+IND018,Ballet,Dancing,individual,2025-08-25,2100.0,
+IND018,Ballet,Dancing,individual,2025-09-01,1799.0,
+IND019,,,,2025-06-09,,"['Esports in the Olympics—Is it finally happening?', 'Behind the scenes at an esports tournament!', 'How VR is changing the future of gaming.']"
+IND019,Esports,Gaming,individual,2025-09-01,3399.0,
+IND019,Esports,Gaming,individual,2025-09-08,2900.0,
+IND020,,,,2025-06-16,,"['Yoga and mindfulness—Why they’re essential for productivity.', '5 beginner-friendly yoga poses to start your day!', 'How breathwork can reduce stress and improve focus.']"
+IND020,Yoga,Fitness,individual,2025-09-08,1479.0,
+IND020,Yoga,Fitness,individual,2025-09-15,2400.0,
+IND021,,,,2025-06-16,,"[""Country music's biggest rising stars in 2025!"", 'A sneak peek into our latest Nashville studio session!', 'The evolution of country music over the decades.']"
+IND021,Country Music,Music,individual,2025-09-15,7619.0,
+IND022,,,,2025-06-16,,['How to plan a magical theme park trip on a budget.']
+IND022,,,,2025-06-23,,"['Disneyland vs. Universal—Which is the better experience?', 'Behind the scenes of running a major theme park event.']"
+IND022,Disney Fan,Theme Parks,individual,2025-09-22,12259.0,
+IND023,,,,2025-06-23,,"['Best programming languages for app development in 2025.', 'iOS vs. Android development—Which one is more in demand?', 'The journey of building a successful mobile app.']"
+IND023,App Development,Coding,individual,2025-09-29,4999.0,
+IND024,,,,2025-06-23,,"['Minimalist home decor—How to make it work for you.', 'Top interior design trends for 2025!']"
+IND024,,,,2025-06-30,,['How lighting affects the mood of your space.']
+IND024,Interior Design,Home Decor,individual,2025-09-29,4600.0,
+IND024,Interior Design,Home Decor,individual,2025-10-06,5329.0,
+IND025,,,,2025-06-30,,"['The art of storytelling in filmmaking.', 'Behind the scenes of our latest indie film project!', 'The impact of streaming services on the movie industry.']"
+IND025,Film Production,Movies,individual,2025-10-06,9800.0,
+IND025,Film Production,Movies,individual,2025-10-13,7559.0,
+IND026,Book Club,Reading,individual,2025-10-13,479.0,
+IND027,Street Art,Art,individual,,,

@@ -1,0 +1,131 @@
+Customer_ID,Post_ID,Platform,Content,Timestamp
+CUST001,POST001,LinkedIn,"How AI is shaping the future of tech startups.",2025-03-20 10:15:00
+CUST002,POST002,Facebook,"The importance of mental health in healthcare professions.",2025-03-19 14:30:00
+CUST003,POST003,Twitter,"Retail trends: The shift to e-commerce and personalization.",2025-03-18 18:45:00
+CUST004,POST004,LinkedIn,"Innovations in sustainable manufacturing processes.",2025-03-17 09:00:00
+CUST005,POST005,Instagram,"Excited to share insights from our latest education reform project!",2025-03-16 16:20:00
+CUST006,POST006,Facebook,"How small hospitality businesses can thrive post-pandemic.",2025-03-15 11:10:00
+CUST007,POST007,Twitter,"Investment strategies for 2025 – where to put your money?",2025-03-14 12:30:00
+CUST008,POST008,LinkedIn,"Tech startups: When to seek funding and when to bootstrap.",2025-03-13 15:50:00
+CUST009,POST009,Instagram,"Check out our latest construction project in downtown LA!",2025-03-12 17:40:00
+CUST010,POST010,Facebook,"Transportation and logistics: The rise of electric trucks.",2025-03-11 08:30:00
+IND001,POST011,Twitter,"New JavaScript frameworks to watch in 2025!",2025-03-10 19:00:00
+IND002,POST012,Instagram,"5 quick home workouts to stay fit and healthy!",2025-03-09 07:15:00
+IND003,POST013,LinkedIn,"Stock market trends: What’s driving the S&P 500 this quarter?",2025-03-08 13:20:00
+IND004,POST014,Instagram,"Spring fashion trends: What’s in and what’s out!",2025-03-07 17:55:00
+IND005,POST015,Facebook,"Who’s excited for the NBA playoffs? Predictions?",2025-03-06 21:10:00
+IND006,POST016,Twitter,"Top 10 must-visit travel destinations for 2025!",2025-03-05 10:25:00
+IND007,POST017,LinkedIn,"Real estate investments: Is 2025 a buyer’s or seller’s market?",2025-03-04 12:45:00
+IND008,POST018,Instagram,"Best self-help books to read this year!",2025-03-03 14:30:00
+IND009,POST019,Facebook,"Concert alert! Who’s coming to the Austin Music Festival?",2025-03-02 16:00:00
+IND010,POST020,Twitter,"Artists, what’s your favorite medium to work with?",2025-03-01 09:45:00
+IND011,POST021,Instagram,"Check out my new gourmet dish – recipe inside!",2025-02-27 18:20:00
+IND012,POST022,LinkedIn,"Public policy changes that could impact small businesses.",2025-02-28 08:10:00
+IND013,POST023,Facebook,"Photography tip: How to capture perfect lighting.",2025-02-27 15:00:00
+IND014,POST024,Twitter,"Let’s talk sustainability – what steps are you taking?",2025-02-26 11:50:00
+IND015,POST025,Instagram,"The top 5 luxury car releases of the year!",2025-02-25 20:30:00
+CUST001,POST033,LinkedIn,"The rise of quantum computing and its impact on software development.",2025-03-21 10:00:00
+CUST001,POST034,Twitter,"Cybersecurity trends to watch out for in 2025!",2025-03-22 08:30:00
+CUST001,POST035,Facebook,"Join our webinar on AI ethics in tech—register now!",2025-03-23 14:45:00
+CUST002,POST036,Instagram,"5 quick exercises for healthcare professionals to stay active.",2025-03-24 07:20:00
+CUST002,POST037,LinkedIn,"How telemedicine is reshaping patient care.",2025-03-25 12:15:00
+CUST002,POST038,Twitter,"Debunking common myths about nutrition and healthcare.",2025-03-26 18:30:00
+CUST003,POST039,Facebook,"Retail automation: How AI-powered chatbots improve customer experience.",2025-03-27 15:40:00
+CUST003,POST040,Instagram,"Behind the scenes: Setting up an online store from scratch.",2025-03-28 09:10:00
+CUST003,POST041,LinkedIn,"Why subscription-based models are revolutionizing retail.",2025-03-29 16:00:00
+CUST004,POST042,Twitter,"3D printing in manufacturing—game changer or hype?",2025-03-30 11:25:00
+CUST004,POST043,LinkedIn,"Sustainable packaging: The next frontier in eco-friendly manufacturing.",2025-03-31 08:50:00
+CUST004,POST044,Facebook,"How automation is reducing waste in manufacturing plants.",2025-04-01 14:10:00
+CUST005,POST045,Instagram,"The impact of e-learning on student performance—real data inside!",2025-04-02 13:20:00
+CUST005,POST046,LinkedIn,"Should coding be a mandatory subject in schools?",2025-04-03 12:30:00
+CUST005,POST047,Facebook,"How AR and VR are transforming classroom experiences.",2025-04-04 16:45:00
+CUST006,POST048,Twitter,"The role of AI in enhancing customer experience in hospitality.",2025-04-05 10:30:00
+CUST006,POST049,Facebook,"Sustainable tourism: How to travel without harming the environment.",2025-04-06 15:10:00
+CUST006,POST050,Instagram,"A day in the life of a hotel manager—behind the scenes!",2025-04-07 09:40:00
+CUST007,POST051,LinkedIn,"How to identify promising startups before they go public.",2025-04-08 14:00:00
+CUST007,POST052,Twitter,"Breaking down the latest market trends in global finance.",2025-04-09 12:50:00
+CUST007,POST053,Facebook,"Are cryptocurrencies a safe investment in 2025?",2025-04-10 16:20:00
+IND001,POST054,Instagram,"Which programming languages will dominate in the next decade?",2025-04-11 08:30:00
+IND001,POST055,Twitter,"Frontend vs. Backend Development—Which career path is right for you?",2025-04-12 11:20:00
+IND001,POST056,LinkedIn,"How no-code and low-code platforms are changing the industry.",2025-04-13 14:45:00
+IND002,POST057,Facebook,"Easy meal prep ideas for busy professionals.",2025-04-14 09:15:00
+IND002,POST058,Twitter,"The science behind intermittent fasting—does it really work?",2025-04-15 17:30:00
+IND002,POST059,Instagram,"5 tips for maintaining a healthy gut.",2025-04-16 13:50:00
+IND003,POST060,LinkedIn,"How to create a diversified investment portfolio.",2025-04-17 10:00:00
+IND003,POST061,Facebook,"How inflation is affecting the real estate market.",2025-04-18 15:45:00
+IND003,POST062,Twitter,"Top 3 investment opportunities for young professionals.",2025-04-19 12:10:00
+IND004,POST063,Instagram,"How to build a timeless wardrobe—fashion tips!",2025-04-20 16:20:00
+IND004,POST064,Facebook,"Why sustainable fashion is the future.",2025-04-21 11:40:00
+IND004,POST065,Twitter,"Fashion influencers vs. traditional designers—who’s leading the industry?",2025-04-22 09:30:00
+IND005,POST066,LinkedIn,"The rise of digital marketing in the sports industry.",2025-04-23 14:30:00
+IND005,POST067,Facebook,"Top 5 exercises to improve your game in any sport.",2025-04-24 17:10:00
+IND005,POST068,Twitter,"Should sports leagues embrace NFTs? The debate continues.",2025-04-25 08:50:00
+IND006,POST069,Instagram,"Best travel destinations for digital nomads.",2025-04-26 13:30:00
+IND006,POST070,Facebook,"How to find cheap flights and maximize your travel budget.",2025-04-27 09:20:00
+IND006,POST071,Twitter,"The dos and don’ts of sustainable travel.",2025-04-28 11:50:00
+IND007,POST072,LinkedIn,"5 things you need to know before investing in real estate.",2025-04-29 14:15:00
+IND007,POST073,Facebook,"Renting vs. buying—what makes the most financial sense in 2025?",2025-04-30 12:30:00
+IND007,POST074,Twitter,"Why location still matters in real estate investment.",2025-05-01 18:40:00
+IND008,POST075,Instagram,"Top 10 must-read books for self-improvement.",2025-05-02 09:50:00
+IND008,POST076,Facebook,"How audiobooks are changing the way we consume knowledge.",2025-05-03 11:15:00
+IND008,POST077,Twitter,"Print books vs. eBooks—Which one do you prefer?",2025-05-04 16:25:00
+IND009,POST078,LinkedIn,"How streaming platforms are changing the music industry.",2025-05-05 13:00:00
+IND009,POST079,Instagram,"Behind the scenes of live concert production!",2025-05-06 17:20:00
+IND009,POST080,Twitter,"Vinyl is making a comeback—what’s fueling the trend?",2025-05-07 12:10:00
+CUST008,POST081,Twitter,"The future of AI startups: Challenges and opportunities.",2025-05-08 14:20:00
+CUST008,POST082,LinkedIn,"Why mentorship is crucial for tech entrepreneurs.",2025-05-09 11:45:00
+CUST008,POST083,Instagram,"Behind the scenes of building a SaaS company!",2025-05-10 08:30:00
+CUST009,POST084,Facebook,"The impact of live music on mental health.",2025-05-11 12:40:00
+CUST009,POST085,Twitter,"The best studio setup for indie artists in 2025.",2025-05-12 09:55:00
+CUST009,POST086,Instagram,"Throwback to our first major concert production!",2025-05-13 17:10:00
+CUST010,POST087,LinkedIn,"The rise of electric public transport—what’s next?",2025-05-14 10:30:00
+CUST010,POST088,Facebook,"Self-driving trucks: Are they the future of logistics?",2025-05-15 14:15:00
+CUST010,POST089,Twitter,"Why high-speed rail is a game changer for global transport.",2025-05-16 18:50:00
+IND010,POST090,Instagram,"10 beginner-friendly painting techniques.",2025-05-17 09:40:00
+IND010,POST091,Facebook,"How digital art is revolutionizing the creative industry.",2025-05-18 12:30:00
+IND010,POST092,Twitter,"Watercolor vs. oil painting—Which one do you prefer?",2025-05-19 15:20:00
+IND011,POST093,LinkedIn,"How to create a Michelin-star-level dish at home.",2025-05-20 13:50:00
+IND011,POST094,Instagram,"Behind the scenes of a professional kitchen!",2025-05-21 17:30:00
+IND011,POST095,Facebook,"The impact of farm-to-table dining on local economies.",2025-05-22 08:20:00
+IND012,POST096,Twitter,"Why civic engagement matters in 2025.",2025-05-23 09:50:00
+IND012,POST097,LinkedIn,"How new policies are shaping small business regulations.",2025-05-24 12:40:00
+IND012,POST098,Facebook,"Breaking down the biggest public policy changes this year.",2025-05-25 14:55:00
+IND013,POST099,Instagram,"Photography hacks for stunning portraits!",2025-05-26 11:30:00
+IND013,POST100,Twitter,"The best DSLR cameras in 2025—Which one should you get?",2025-05-27 16:15:00
+IND013,POST101,Facebook,"The evolution of photography styles over the last decade.",2025-05-28 10:50:00
+IND014,POST102,LinkedIn,"How businesses can go zero-waste in their operations.",2025-05-29 14:00:00
+IND014,POST103,Facebook,"Simple swaps for a more sustainable lifestyle.",2025-05-30 12:20:00
+IND014,POST104,Twitter,"The impact of fast fashion on the environment.",2025-05-31 17:45:00
+IND015,POST105,Instagram,"Top 5 luxury cars of the year—Which is your favorite?",2025-06-01 10:40:00
+IND015,POST106,Facebook,"How electric sports cars are redefining performance.",2025-06-02 13:30:00
+IND015,POST107,Twitter,"Would you buy a self-driving supercar? Let’s discuss!",2025-06-03 18:20:00
+IND016,POST108,LinkedIn,"How nonprofits can leverage social media for impact.",2025-06-04 15:10:00
+IND016,POST109,Facebook,"Volunteering stories: Making a real difference in communities.",2025-06-05 09:30:00
+IND016,POST110,Twitter,"Why corporate social responsibility is more important than ever.",2025-06-06 12:40:00
+IND017,POST111,Instagram,"Building your first AI model—where to start.",2025-06-07 08:55:00
+IND017,POST112,Facebook,"How AI is transforming the job market.",2025-06-08 16:20:00
+IND017,POST113,Twitter,"The ethics of AI—How can we ensure responsible innovation?",2025-06-09 14:10:00
+IND018,POST114,LinkedIn,"The role of ballet in modern dance education.",2025-06-10 12:30:00
+IND018,POST115,Instagram,"Best stretches for dancers—Stay flexible!",2025-06-11 09:15:00
+IND018,POST116,Facebook,"Why dance is great for mental health and mindfulness.",2025-06-12 17:40:00
+IND019,POST117,Twitter,"Esports in the Olympics—Is it finally happening?",2025-06-13 11:25:00
+IND019,POST118,Instagram,"Behind the scenes at an esports tournament!",2025-06-14 08:45:00
+IND019,POST119,Facebook,"How VR is changing the future of gaming.",2025-06-15 16:30:00
+IND020,POST120,LinkedIn,"Yoga and mindfulness—Why they’re essential for productivity.",2025-06-16 12:00:00
+IND020,POST121,Instagram,"5 beginner-friendly yoga poses to start your day!",2025-06-17 09:50:00
+IND020,POST122,Facebook,"How breathwork can reduce stress and improve focus.",2025-06-18 18:10:00
+IND021,POST123,Twitter,"Country music's biggest rising stars in 2025!",2025-06-19 10:45:00
+IND021,POST124,Instagram,"A sneak peek into our latest Nashville studio session!",2025-06-20 13:30:00
+IND021,POST125,Facebook,"The evolution of country music over the decades.",2025-06-21 17:55:00
+IND022,POST126,LinkedIn,"How to plan a magical theme park trip on a budget.",2025-06-22 12:40:00
+IND022,POST127,Facebook,"Disneyland vs. Universal—Which is the better experience?",2025-06-23 09:20:00
+IND022,POST128,Twitter,"Behind the scenes of running a major theme park event.",2025-06-24 16:50:00
+IND023,POST129,Instagram,"Best programming languages for app development in 2025.",2025-06-25 08:30:00
+IND023,POST130,Twitter,"iOS vs. Android development—Which one is more in demand?",2025-06-26 14:10:00
+IND023,POST131,Facebook,"The journey of building a successful mobile app.",2025-06-27 17:20:00
+IND024,POST132,LinkedIn,"Minimalist home decor—How to make it work for you.",2025-06-28 13:15:00
+IND024,POST133,Instagram,"Top interior design trends for 2025!",2025-06-29 10:50:00
+IND024,POST134,Facebook,"How lighting affects the mood of your space.",2025-06-30 18:40:00
+IND025,POST135,Twitter,"The art of storytelling in filmmaking.",2025-07-01 11:30:00
+IND025,POST136,Instagram,"Behind the scenes of our latest indie film project!",2025-07-02 09:45:00
+IND025,POST137,Facebook,"The impact of streaming services on the movie industry.",2025-07-03 16:25:00

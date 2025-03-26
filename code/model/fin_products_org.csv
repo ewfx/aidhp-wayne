@@ -1,0 +1,28 @@
+Product_ID,Product_Name,Category,Target_Audience
+FIN001,Business Loan,Loan,Organisation
+FIN002,Corporate Credit Line,Credit,Organisation
+FIN003,Trade Finance,Trade & Export,Organisation
+FIN004,Treasury Management,Banking Service,Organisation
+FIN005,Invoice Financing,Loan,Organisation
+FIN006,Merchant Services,Payment Solution,Organisation
+FIN007,Commercial Real Estate Loan,Loan,Organisation
+FIN008,Equipment Leasing,Leasing & Financing,Organisation
+FIN009,Payroll Management,Banking Service,Organisation
+FIN010,Industry-Specific Loan,Loan,Organisation
+FIN028,Business Analytics Subscription,Subscription,Organisation
+FIN045,Professional Liability Insurance,Insurance,Organisation
+FIN046,Property Insurance,Insurance,Organisation
+FIN047,Commercial Vehicle Insurance,Insurance,Organisation
+FIN048,General Liability Insurance,Insurance,Organisation
+FIN049,Workers' Compensation Insurance,Insurance,Organisation
+FIN050,Product Liability Insurance,Insurance,Organisation
+FIN034,Wealth Management,Investment,Organisation
+FIN035,Financial Literacy Course,Subscription,Organisation
+FIN023,Real Estate Advisory,Investment,Organisation
+FIN024,Insurance Products,Insurance,Organisation
+FIN025,Tax-Saving Plans,Investment,Organisation
+FIN026,Premium Banking Membership,Banking Service,Organisation
+FIN027,Credit Protection Plan,Insurance,Organisation
+FIN029,Cybersecurity Insurance,Insurance,Organisation
+FIN030,AI Financial Advisory,Banking Service,Organisation
+FIN031,Blockchain Banking,Banking Service,Organisation

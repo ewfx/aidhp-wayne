@@ -1,0 +1,28 @@
+Customer_ID,Age,Gender,Location,Interests,Preferences,Income,Education,Occupation
+IND001,25,M,New York,Technology,Gadgets,$60000,Bachelor's,Software Engineer
+IND002,32,F,Los Angeles,Fitness,Healthy Lifestyle,$75000,Master's,Nutritionist
+IND003,45,M,Chicago,Finance,Investments,$120000,MBA,Financial Analyst
+IND004,29,F,Miami,Fashion,Luxury Brands,$68000,Bachelor's,Fashion Designer
+IND005,37,M,Dallas,Sports,Outdoor Activities,$90000,Bachelor's,Marketing Manager
+IND006,41,F,San Francisco,Travel,Adventure Trips,$110000,Master's,Travel Blogger
+IND007,50,M,Seattle,Real Estate,Property Investment,$150000,MBA,Real Estate Agent
+IND008,28,F,Boston,Reading,Self-Help Books,$55000,Bachelor's,Teacher
+IND009,33,M,Austin,Music,Live Concerts,$72000,Bachelor's,Sound Engineer
+IND010,26,F,Denver,Art,Painting,$48000,Associate's,Graphic Designer
+IND011,39,M,Atlanta,Cooking,Gourmet Food,$98000,Master's,Chef
+IND012,44,F,Washington,Politics,Public Policy,$130000,PhD,Government Official
+IND013,30,M,Las Vegas,Photography,Portraits,$67000,Bachelor's,Photographer
+IND014,27,F,Portland,Sustainability,Zero-Waste Lifestyle,$58000,Bachelor's,Environmental Scientist
+IND015,36,M,San Diego,Automobiles,Luxury Cars,$89000,Bachelor's,Mechanical Engineer
+IND016,50,F,Phoenix,Volunteering,Social Work,$75000,Master's,Nonprofit Director
+IND017,31,M,Detroit,Technology,AI & Robotics,$95000,Master's,Data Scientist
+IND018,42,F,Philadelphia,Dancing,Ballet,$73000,Bachelor's,Dance Instructor
+IND019,34,M,Houston,Gaming,Esports,$71000,Bachelor's,Game Developer
+IND020,29,F,Minneapolis,Fitness,Yoga,$60000,Bachelor's,Fitness Trainer
+IND021,38,M,Nashville,Music,Country Music,$85000,Bachelor's,Music Producer
+IND022,43,F,Orlando,Theme Parks,Disney Fan,$90000,Bachelor's,Event Planner
+IND023,26,M,San Jose,Coding,App Development,$78000,Bachelor's,Software Developer
+IND024,40,F,Charlotte,Home Decor,Interior Design,$95000,Master's,Interior Designer
+IND025,35,M,Indianapolis,Movies,Film Production,$87000,Bachelor's,Film Director
+IND026,48,F,Memphis,Reading,Book Club,$120000,PhD,Author
+IND027,32,M,Denver,Art,Street Art,$69000,Bachelor's,Artist

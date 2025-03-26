@@ -1,0 +1,110 @@
+Customer_ID,Product_ID,Transaction_Type,Category,Amount,Purchase_Date
+CUST001,PROD001,Purchase,Software,1200,2025-03-01
+CUST001,PROD002,Subscription,Cloud Services,299,2025-03-05
+CUST001,PROD003,Purchase,Laptop,2200,2025-03-10
+CUST002,PROD004,Purchase,Medical Equipment,5400,2025-03-12
+CUST002,PROD005,Subscription,Healthcare Software,399,2025-03-15
+CUST002,PROD006,Purchase,Office Furniture,850,2025-03-18
+CUST003,PROD007,Purchase,E-commerce Software,1499,2025-03-20
+CUST003,PROD008,Subscription,SEO Services,199,2025-03-22
+CUST003,PROD009,Purchase,Warehouse Equipment,3200,2025-03-25
+CUST004,PROD010,Purchase,Manufacturing Tools,6700,2025-03-27
+CUST004,PROD011,Subscription,Quality Control Software,499,2025-03-30
+CUST004,PROD012,Purchase,3D Printing Materials,1900,2025-04-02
+CUST005,PROD013,Purchase,Online Learning Platform,350,2025-04-05
+CUST005,PROD014,Subscription,E-books,99,2025-04-07
+CUST005,PROD015,Purchase,VR Headset,750,2025-04-10
+CUST006,PROD016,Purchase,Hotel Management Software,2500,2025-04-12
+CUST006,PROD017,Subscription,Travel CRM,199,2025-04-14
+CUST006,PROD018,Purchase,Smart Security System,1800,2025-04-17
+CUST007,PROD019,Purchase,Stock Analysis Tool,1300,2025-04-20
+CUST007,PROD020,Subscription,Financial News,59,2025-04-22
+CUST007,PROD021,Purchase,Trading Simulator,990,2025-04-24
+IND001,PROD022,Purchase,Web Hosting,300,2025-04-26
+IND001,PROD023,Subscription,Coding Bootcamp,150,2025-04-28
+IND001,PROD024,Purchase,Server Upgrade,4800,2025-04-30
+IND002,PROD025,Purchase,Organic Food Supplies,600,2025-05-02
+IND002,PROD026,Subscription,Nutrition Plan,79,2025-05-04
+IND002,PROD027,Purchase,Kitchen Equipment,1200,2025-05-07
+IND003,PROD028,Purchase,Investment Research,999,2025-05-09
+IND003,PROD029,Subscription,Stock Market Data,129,2025-05-11
+IND003,PROD030,Purchase,Financial Planning Software,2499,2025-05-13
+IND004,PROD031,Purchase,Sustainable Fabric,1800,2025-05-15
+IND004,PROD032,Subscription,Fashion Design Software,219,2025-05-17
+IND004,PROD033,Purchase,Sewing Machines,5700,2025-05-20
+IND005,PROD034,Purchase,Digital Sports Training Kit,499,2025-05-22
+IND005,PROD035,Subscription,Performance Analytics,119,2025-05-24
+IND005,PROD036,Purchase,Gym Equipment,2900,2025-05-27
+IND006,PROD037,Purchase,Travel Booking Software,1399,2025-05-29
+IND006,PROD038,Subscription,Frequent Flyer Membership,99,2025-05-31
+IND006,PROD039,Purchase,Camera Equipment,1750,2025-06-02
+IND007,PROD040,Purchase,Real Estate CRM,2200,2025-06-04
+IND007,PROD041,Subscription,Market Analysis Reports,199,2025-06-06
+IND007,PROD042,Purchase,Property Management Software,3200,2025-06-09
+IND008,PROD043,Purchase,Bookstore Inventory,900,2025-06-11
+IND008,PROD044,Subscription,Library Access,79,2025-06-13
+IND008,PROD045,Purchase,Writing Software,250,2025-06-15
+IND009,PROD046,Purchase,Music Editing Software,450,2025-06-17
+IND009,PROD047,Subscription,Streaming Platform Premium,129,2025-06-19
+IND009,PROD048,Purchase,Studio Equipment,3700,2025-06-22
+IND010,PROD049,Purchase,Art Supplies,799,2025-06-24
+IND010,PROD050,Subscription,Online Art Classes,99,2025-06-26
+IND010,PROD051,Purchase,Graphic Tablet,950,2025-06-28
+IND011,PROD052,Purchase,Cooking Appliances,1200,2025-06-30
+IND011,PROD053,Subscription,Recipe Box,79,2025-07-02
+CUST008,PROD052,Purchase,AI Development Software,3200,2025-07-01
+CUST008,PROD053,Subscription,Cloud AI Services,299,2025-07-03
+CUST008,PROD054,Purchase,High-Performance GPU,4500,2025-07-05
+CUST009,PROD055,Purchase,Concert Sound Equipment,5800,2025-07-07
+CUST009,PROD056,Subscription,Music Streaming Platform,159,2025-07-09
+CUST009,PROD057,Purchase,Digital Mixing Console,2700,2025-07-11
+CUST010,PROD058,Purchase,Public Transport Fleet Management,7200,2025-07-13
+CUST010,PROD059,Subscription,Logistics Optimization Software,499,2025-07-15
+CUST010,PROD060,Purchase,Smart Traffic Lights System,6300,2025-07-17
+IND011,PROD061,Purchase,Gourmet Cooking Equipment,3900,2025-07-19
+IND011,PROD062,Subscription,Premium Chef Training Program,199,2025-07-21
+IND011,PROD063,Purchase,Restaurant POS System,2300,2025-07-23
+IND012,PROD064,Purchase,Government Policy Research,2800,2025-07-25
+IND012,PROD065,Subscription,Public Affairs Database,129,2025-07-27
+IND012,PROD066,Purchase,Legislation Analytics Software,3400,2025-07-29
+IND013,PROD067,Purchase,Photography Camera Lenses,1800,2025-07-31
+IND013,PROD068,Subscription,Adobe Creative Cloud,59,2025-08-02
+IND013,PROD069,Purchase,Photo Editing Software,600,2025-08-04
+IND014,PROD070,Purchase,Recyclable Packaging Materials,2500,2025-08-06
+IND014,PROD071,Subscription,Sustainability News Platform,99,2025-08-08
+IND014,PROD072,Purchase,Green Manufacturing Equipment,7800,2025-08-10
+IND015,PROD073,Purchase,Luxury Car Parts,6700,2025-08-12
+IND015,PROD074,Subscription,Automobile Industry Insights,299,2025-08-14
+IND015,PROD075,Purchase,Electric Car Charging Stations,9600,2025-08-16
+IND016,PROD076,Purchase,NGO Fundraising Tools,3100,2025-08-18
+IND016,PROD077,Subscription,Charity CRM Software,199,2025-08-20
+IND016,PROD078,Purchase,Volunteering Management System,2800,2025-08-22
+IND017,PROD079,Purchase,Deep Learning Computing Rig,8300,2025-08-24
+IND017,PROD080,Subscription,AI Ethics Training,149,2025-08-26
+IND017,PROD081,Purchase,AI Model Training Dataset,4900,2025-08-28
+IND018,PROD082,Purchase,Ballet Performance Wear,2100,2025-08-30
+IND018,PROD083,Subscription,Dance Streaming Platform,99,2025-09-01
+IND018,PROD084,Purchase,Dance Studio Mirrors,1700,2025-09-03
+IND019,PROD085,Purchase,Esports Gaming Monitors,3200,2025-09-05
+IND019,PROD086,Subscription,Esports Coaching Program,199,2025-09-07
+IND019,PROD087,Purchase,VR Headset for Gaming,2900,2025-09-09
+IND020,PROD088,Purchase,Holistic Wellness Training,1400,2025-09-11
+IND020,PROD089,Subscription,Meditation App Premium,79,2025-09-13
+IND020,PROD090,Purchase,Yoga Studio Equipment,2400,2025-09-15
+IND021,PROD091,Purchase,Country Music Studio Time,5300,2025-09-17
+IND021,PROD092,Subscription,Music Distribution Service,119,2025-09-19
+IND021,PROD093,Purchase,Guitar Recording Gear,2200,2025-09-21
+IND022,PROD094,Purchase,Theme Park Ride Safety Gear,7200,2025-09-23
+IND022,PROD095,Subscription,Entertainment Analytics Tool,159,2025-09-25
+IND022,PROD096,Purchase,Custom Merchandise for Theme Park,4900,2025-09-27
+IND023,PROD097,Purchase,App Development Tools,2800,2025-09-29
+IND023,PROD098,Subscription,Cloud Backend Services,299,2025-10-01
+IND023,PROD099,Purchase,Mobile UI Design Software,1900,2025-10-03
+IND024,PROD100,Purchase,Home Decor Showroom Inventory,4600,2025-10-05
+IND024,PROD101,Subscription,Interior Design Webinars,129,2025-10-07
+IND024,PROD102,Purchase,Smart Home Automation Kit,5200,2025-10-09
+IND025,PROD103,Purchase,Filmmaking Camera Rig,9800,2025-10-11
+IND025,PROD104,Subscription,Film Editing Software,259,2025-10-13
+IND025,PROD105,Purchase,Virtual Production Setup,7300,2025-10-15
+IND026,PROD106,Purchase,Book Club Reading List,400,2025-10-17
+IND026,PROD107,Subscription,Author Interviews,79,2025-10-19

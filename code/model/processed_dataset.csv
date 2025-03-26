@@ -1,0 +1,55 @@
+customerid,revenue/income,list_of_posts
+CUST001,3699.0,"['How AI is shaping the future of tech startups.', 'The rise of quantum computing and its impact on software development.', 'Cybersecurity trends to watch out for in 2025!', 'Join our webinar on AI ethics in tech—register now!']"
+CUST002,6649.0,"['The importance of mental health in healthcare professions.', '5 quick exercises for healthcare professionals to stay active.', 'How telemedicine is reshaping patient care.', 'Debunking common myths about nutrition and healthcare.']"
+CUST003,4898.0,"['Retail trends: The shift to e-commerce and personalization.', 'Retail automation: How AI-powered chatbots improve customer experience.', 'Behind the scenes: Setting up an online store from scratch.', 'Why subscription-based models are revolutionizing retail.']"
+CUST004,9099.0,"['Innovations in sustainable manufacturing processes.', '3D printing in manufacturing—game changer or hype?', 'Sustainable packaging: The next frontier in eco-friendly manufacturing.', 'How automation is reducing waste in manufacturing plants.']"
+CUST005,1199.0,"['Excited to share insights from our latest education reform project!', 'The impact of e-learning on student performance—real data inside!', 'Should coding be a mandatory subject in schools?', 'How AR and VR are transforming classroom experiences.']"
+CUST006,4499.0,"['How small hospitality businesses can thrive post-pandemic.', 'The role of AI in enhancing customer experience in hospitality.', 'Sustainable tourism: How to travel without harming the environment.', 'A day in the life of a hotel manager—behind the scenes!']"
+CUST007,2349.0,"['Investment strategies for 2025 – where to put your money?', 'How to identify promising startups before they go public.', 'Breaking down the latest market trends in global finance.', 'Are cryptocurrencies a safe investment in 2025?']"
+CUST008,7999.0,"['Tech startups: When to seek funding and when to bootstrap.', 'The future of AI startups: Challenges and opportunities.', 'Why mentorship is crucial for tech entrepreneurs.', 'Behind the scenes of building a SaaS company!']"
+CUST009,8659.0,"['Check out our latest construction project in downtown LA!', 'The impact of live music on mental health.', 'The best studio setup for indie artists in 2025.', 'Throwback to our first major concert production!']"
+CUST010,13999.0,"['Transportation and logistics: The rise of electric trucks.', 'The rise of electric public transport—what’s next?', 'Self-driving trucks: Are they the future of logistics?', 'Why high-speed rail is a game changer for global transport.']"
+CUST011,0.0,[]
+CUST012,0.0,[]
+CUST013,0.0,[]
+CUST014,0.0,[]
+CUST015,0.0,[]
+CUST016,0.0,[]
+CUST017,0.0,[]
+CUST018,0.0,[]
+CUST019,0.0,[]
+CUST020,0.0,[]
+CUST021,0.0,[]
+CUST022,0.0,[]
+CUST023,0.0,[]
+CUST024,0.0,[]
+CUST025,0.0,[]
+CUST026,0.0,[]
+CUST027,0.0,[]
+IND001,5250.0,"['New JavaScript frameworks to watch in 2025!', 'Which programming languages will dominate in the next decade?', 'Frontend vs. Backend Development—Which career path is right for you?', 'How no-code and low-code platforms are changing the industry.']"
+IND002,1879.0,"['5 quick home workouts to stay fit and healthy!', 'Easy meal prep ideas for busy professionals.', 'The science behind intermittent fasting—does it really work?', '5 tips for maintaining a healthy gut.']"
+IND003,3627.0,"['Stock market trends: What’s driving the S&P 500 this quarter?', 'How to create a diversified investment portfolio.', 'How inflation is affecting the real estate market.', 'Top 3 investment opportunities for young professionals.']"
+IND004,7719.0,"['Spring fashion trends: What’s in and what’s out!', 'How to build a timeless wardrobe—fashion tips!', 'Why sustainable fashion is the future.', 'Fashion influencers vs. traditional designers—who’s leading the industry?']"
+IND005,3518.0,"['Who’s excited for the NBA playoffs? Predictions?', 'The rise of digital marketing in the sports industry.', 'Top 5 exercises to improve your game in any sport.', 'Should sports leagues embrace NFTs? The debate continues.']"
+IND006,3248.0,"['Top 10 must-visit travel destinations for 2025!', 'Best travel destinations for digital nomads.', 'How to find cheap flights and maximize your travel budget.', 'The dos and don’ts of sustainable travel.']"
+IND007,5599.0,"['Real estate investments: Is 2025 a buyer’s or seller’s market?', '5 things you need to know before investing in real estate.', 'Renting vs. buying—what makes the most financial sense in 2025?', 'Why location still matters in real estate investment.']"
+IND008,1229.0,"['Best self-help books to read this year!', 'Top 10 must-read books for self-improvement.', 'How audiobooks are changing the way we consume knowledge.', 'Print books vs. eBooks—Which one do you prefer?']"
+IND009,4279.0,"['Concert alert! Who’s coming to the Austin Music Festival?', 'How streaming platforms are changing the music industry.', 'Behind the scenes of live concert production!', 'Vinyl is making a comeback—what’s fueling the trend?']"
+IND010,1848.0,"['Artists, what’s your favorite medium to work with?', '10 beginner-friendly painting techniques.', 'How digital art is revolutionizing the creative industry.', 'Watercolor vs. oil painting—Which one do you prefer?']"
+IND011,7678.0,"['Check out my new gourmet dish – recipe inside!', 'How to create a Michelin-star-level dish at home.', 'Behind the scenes of a professional kitchen!', 'The impact of farm-to-table dining on local economies.']"
+IND012,6329.0,"['Public policy changes that could impact small businesses.', 'Why civic engagement matters in 2025.', 'How new policies are shaping small business regulations.', 'Breaking down the biggest public policy changes this year.']"
+IND013,2459.0,"['Photography tip: How to capture perfect lighting.', 'Photography hacks for stunning portraits!', 'The best DSLR cameras in 2025—Which one should you get?', 'The evolution of photography styles over the last decade.']"
+IND014,10399.0,"['Let’s talk sustainability – what steps are you taking?', 'How businesses can go zero-waste in their operations.', 'Simple swaps for a more sustainable lifestyle.', 'The impact of fast fashion on the environment.']"
+IND015,16599.0,"['The top 5 luxury car releases of the year!', 'Top 5 luxury cars of the year—Which is your favorite?', 'How electric sports cars are redefining performance.', 'Would you buy a self-driving supercar? Let’s discuss!']"
+IND016,6099.0,"['How nonprofits can leverage social media for impact.', 'Volunteering stories: Making a real difference in communities.', 'Why corporate social responsibility is more important than ever.']"
+IND017,13349.0,"['Building your first AI model—where to start.', 'How AI is transforming the job market.', 'The ethics of AI—How can we ensure responsible innovation?']"
+IND018,3899.0,"['The role of ballet in modern dance education.', 'Best stretches for dancers—Stay flexible!', 'Why dance is great for mental health and mindfulness.']"
+IND019,6299.0,"['Esports in the Olympics—Is it finally happening?', 'Behind the scenes at an esports tournament!', 'How VR is changing the future of gaming.']"
+IND020,3879.0,"['Yoga and mindfulness—Why they’re essential for productivity.', '5 beginner-friendly yoga poses to start your day!', 'How breathwork can reduce stress and improve focus.']"
+IND021,7619.0,"[""Country music's biggest rising stars in 2025!"", 'A sneak peek into our latest Nashville studio session!', 'The evolution of country music over the decades.']"
+IND022,12259.0,"['How to plan a magical theme park trip on a budget.', 'Disneyland vs. Universal—Which is the better experience?', 'Behind the scenes of running a major theme park event.']"
+IND023,4999.0,"['Best programming languages for app development in 2025.', 'iOS vs. Android development—Which one is more in demand?', 'The journey of building a successful mobile app.']"
+IND024,9929.0,"['Minimalist home decor—How to make it work for you.', 'Top interior design trends for 2025!', 'How lighting affects the mood of your space.']"
+IND025,17359.0,"['The art of storytelling in filmmaking.', 'Behind the scenes of our latest indie film project!', 'The impact of streaming services on the movie industry.']"
+IND026,479.0,[]
+IND027,0.0,[]
